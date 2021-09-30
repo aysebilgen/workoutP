@@ -1,0 +1,31 @@
+.component-container{
+    // display: block;
+}
+
+.workout-container{
+margin-top:2rem;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  border: red;
+  border-bottom: solid 1px;
+  height: 4rem;
+}
+
+.workout-name {
+
+width: 40rem;
+text-align: left;
+word-wrap: break-word;
+}
+
+
+
+.add-workout-button{margin-top: 2rem;}
+
+.info {color: red; font-size: 2rem;text-align: center; margin-top: 1rem;}
+
+.edit-button{margin-left: 1rem;}
+.right-button{margin-right: 1rem;}
+
+.counter{font-size:10rem; color: red;}

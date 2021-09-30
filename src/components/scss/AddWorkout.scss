@@ -1,0 +1,41 @@
+
+.add-workout-container{
+    margin-top: 1rem;
+}
+.exercise-details{
+    margin-top: 2rem;
+    border: solid 3px;
+padding: 2rem;
+
+}
+
+.add-workout-container input, .add-workout-container  textarea {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+  }
+
+  .add-workout-container label {
+    text-align: left;
+    display: block;
+  }
+
+
+ .addExercise-button {
+  
+    text-align: left;
+    margin-top: 2rem;
+}
+.save-button{
+    text-align: left;
+    margin-top: 2rem;  
+}
+
+.exercise-container{
+    border: 2px solid #ddd;
+    padding: 0.5rem;
+    margin-top: 1rem;
+}
